@@ -6,7 +6,7 @@ const foodMenu = [
         type:"lunch",
     },
     {
-        name:"biryani",
+        name:"Biryani",
         price:"Price:400",
         img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrzxb50qx_ti-Lh5fJ8DHfELFrDrMK6NG1w&s",
         type:"lunch",
